@@ -1,0 +1,10 @@
+C:\Project\ADOTask3\DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Project\ADOTask3\DBCommand\DBCommand\bin\Debug\DBCommand.exe
+C:\Project\ADOTask3\DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+C:\Project\ADOTask3\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.AssemblyReference.cache
+C:\Project\ADOTask3\DBCommand\DBCommand\obj\Debug\DBCommand.Form1.resources
+C:\Project\ADOTask3\DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Project\ADOTask3\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Project\ADOTask3\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Project\ADOTask3\DBCommand\DBCommand\obj\Debug\DBCommand.exe
+C:\Project\ADOTask3\DBCommand\DBCommand\obj\Debug\DBCommand.pdb
