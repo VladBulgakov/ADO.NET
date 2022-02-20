@@ -1,0 +1,10 @@
+C:\Project\ADOTask5\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+C:\Project\ADOTask5\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+C:\Project\ADOTask5\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+C:\Project\ADOTask5\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.AssemblyReference.cache
+C:\Project\ADOTask5\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources
+C:\Project\ADOTask5\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+C:\Project\ADOTask5\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+C:\Project\ADOTask5\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.CoreCompileInputs.cache
+C:\Project\ADOTask5\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+C:\Project\ADOTask5\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.pdb
