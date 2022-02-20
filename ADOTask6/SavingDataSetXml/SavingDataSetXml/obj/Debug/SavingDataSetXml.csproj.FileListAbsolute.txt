@@ -1,0 +1,10 @@
+D:\ADOTask6\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+D:\ADOTask6\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+D:\ADOTask6\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+D:\ADOTask6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.AssemblyReference.cache
+D:\ADOTask6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+D:\ADOTask6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+D:\ADOTask6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+D:\ADOTask6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+D:\ADOTask6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+D:\ADOTask6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb

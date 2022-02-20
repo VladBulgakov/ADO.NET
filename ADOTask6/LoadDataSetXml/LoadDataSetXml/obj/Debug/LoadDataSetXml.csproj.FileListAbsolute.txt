@@ -1,0 +1,10 @@
+D:\ADOTask6\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+D:\ADOTask6\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+D:\ADOTask6\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+D:\ADOTask6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.AssemblyReference.cache
+D:\ADOTask6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+D:\ADOTask6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+D:\ADOTask6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+D:\ADOTask6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+D:\ADOTask6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+D:\ADOTask6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb
