@@ -1,0 +1,10 @@
+C:\Project\ADOTask4\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+C:\Project\ADOTask4\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+C:\Project\ADOTask4\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+C:\Project\ADOTask4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.AssemblyReference.cache
+C:\Project\ADOTask4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+C:\Project\ADOTask4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+C:\Project\ADOTask4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+C:\Project\ADOTask4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+C:\Project\ADOTask4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+C:\Project\ADOTask4\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.pdb
