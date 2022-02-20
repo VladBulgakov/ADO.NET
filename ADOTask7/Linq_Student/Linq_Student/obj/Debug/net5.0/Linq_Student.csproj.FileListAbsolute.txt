@@ -1,0 +1,16 @@
+D:\ADOTask7\Linq_Student\Linq_Student\bin\Debug\net5.0\Linq_Student.exe
+D:\ADOTask7\Linq_Student\Linq_Student\bin\Debug\net5.0\Linq_Student.deps.json
+D:\ADOTask7\Linq_Student\Linq_Student\bin\Debug\net5.0\Linq_Student.runtimeconfig.json
+D:\ADOTask7\Linq_Student\Linq_Student\bin\Debug\net5.0\Linq_Student.runtimeconfig.dev.json
+D:\ADOTask7\Linq_Student\Linq_Student\bin\Debug\net5.0\Linq_Student.dll
+D:\ADOTask7\Linq_Student\Linq_Student\bin\Debug\net5.0\ref\Linq_Student.dll
+D:\ADOTask7\Linq_Student\Linq_Student\bin\Debug\net5.0\Linq_Student.pdb
+D:\ADOTask7\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.csproj.AssemblyReference.cache
+D:\ADOTask7\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADOTask7\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.AssemblyInfoInputs.cache
+D:\ADOTask7\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.AssemblyInfo.cs
+D:\ADOTask7\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.csproj.CoreCompileInputs.cache
+D:\ADOTask7\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.dll
+D:\ADOTask7\Linq_Student\Linq_Student\obj\Debug\net5.0\ref\Linq_Student.dll
+D:\ADOTask7\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.pdb
+D:\ADOTask7\Linq_Student\Linq_Student\obj\Debug\net5.0\Linq_Student.genruntimeconfig.cache
