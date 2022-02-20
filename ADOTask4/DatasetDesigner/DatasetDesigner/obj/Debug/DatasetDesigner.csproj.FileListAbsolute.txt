@@ -1,0 +1,10 @@
+C:\Project\ADOTask4\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
+C:\Project\ADOTask4\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe
+C:\Project\ADOTask4\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
+C:\Project\ADOTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.AssemblyReference.cache
+C:\Project\ADOTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources
+C:\Project\ADOTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+C:\Project\ADOTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.cache
+C:\Project\ADOTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.CoreCompileInputs.cache
+C:\Project\ADOTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.exe
+C:\Project\ADOTask4\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.pdb
