@@ -1,0 +1,10 @@
+C:\Project\ADOTask5\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+C:\Project\ADOTask5\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+C:\Project\ADOTask5\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+C:\Project\ADOTask5\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.AssemblyReference.cache
+C:\Project\ADOTask5\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
+C:\Project\ADOTask5\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+C:\Project\ADOTask5\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+C:\Project\ADOTask5\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+C:\Project\ADOTask5\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+C:\Project\ADOTask5\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb

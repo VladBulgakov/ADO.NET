@@ -1,0 +1,10 @@
+C:\Project\ADOTask5\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+C:\Project\ADOTask5\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+C:\Project\ADOTask5\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+C:\Project\ADOTask5\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.AssemblyReference.cache
+C:\Project\ADOTask5\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+C:\Project\ADOTask5\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+C:\Project\ADOTask5\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+C:\Project\ADOTask5\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+C:\Project\ADOTask5\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+C:\Project\ADOTask5\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.pdb
