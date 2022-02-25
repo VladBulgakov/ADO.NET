@@ -1,0 +1,11 @@
+D:\ADOFinalTask\ADOFinalTask\bin\Debug\ADOFinalTask.exe
+D:\ADOFinalTask\ADOFinalTask\bin\Debug\ADOFinalTask.pdb
+D:\ADOFinalTask\ADOFinalTask\obj\Debug\ADOFinalTask.csproj.AssemblyReference.cache
+D:\ADOFinalTask\ADOFinalTask\obj\Debug\ADOFinalTask.Properties.Resources.resources
+D:\ADOFinalTask\ADOFinalTask\obj\Debug\ADOFinalTask.csproj.GenerateResource.cache
+D:\ADOFinalTask\ADOFinalTask\obj\Debug\ADOFinalTask.csproj.CoreCompileInputs.cache
+D:\ADOFinalTask\ADOFinalTask\obj\Debug\ADOFinalTask.exe
+D:\ADOFinalTask\ADOFinalTask\obj\Debug\ADOFinalTask.pdb
+D:\ADOFinalTask\ADOFinalTask\obj\Debug\ADOFinalTask.MainForm.resources
+D:\ADOFinalTask\ADOFinalTask\obj\Debug\ADOFinalTask.TableForm.resources
+D:\ADOFinalTask\ADOFinalTask\bin\Debug\ADOFinalTask.exe.config
