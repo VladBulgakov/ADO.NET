@@ -1,0 +1,10 @@
+D:\ADOTask8\LINQsql_1\LINQsql_1\bin\Debug\LINQsql_1.exe.config
+D:\ADOTask8\LINQsql_1\LINQsql_1\bin\Debug\LINQsql_1.exe
+D:\ADOTask8\LINQsql_1\LINQsql_1\bin\Debug\LINQsql_1.pdb
+D:\ADOTask8\LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.csproj.AssemblyReference.cache
+D:\ADOTask8\LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.Form1.resources
+D:\ADOTask8\LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.Properties.Resources.resources
+D:\ADOTask8\LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.csproj.GenerateResource.cache
+D:\ADOTask8\LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.csproj.CoreCompileInputs.cache
+D:\ADOTask8\LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.exe
+D:\ADOTask8\LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.pdb
