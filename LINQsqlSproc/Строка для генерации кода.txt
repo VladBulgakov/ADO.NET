@@ -1,1 +1,0 @@
-sqlmetal /server:DESKTOP-E6LKVU6\SQLEXPRESS /database:Northwind /language:csharp /code:"D:\GeneratedCode\northwind.cs" /functions /sprocs /pluralize
