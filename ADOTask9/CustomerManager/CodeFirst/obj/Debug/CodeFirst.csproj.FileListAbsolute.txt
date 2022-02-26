@@ -1,0 +1,12 @@
+D:\ADOTask9\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll.config
+D:\ADOTask9\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll
+D:\ADOTask9\CustomerManager\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\ADOTask9\CustomerManager\CodeFirst\bin\Debug\EntityFramework.dll
+D:\ADOTask9\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\ADOTask9\CustomerManager\CodeFirst\bin\Debug\EntityFramework.xml
+D:\ADOTask9\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\ADOTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\ADOTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\ADOTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.dll
+D:\ADOTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.pdb
+D:\ADOTask9\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.AssemblyReference.cache

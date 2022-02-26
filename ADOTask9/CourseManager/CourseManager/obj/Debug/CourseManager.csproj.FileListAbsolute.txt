@@ -1,0 +1,15 @@
+D:\ADOTask9\CourseManager\CourseManager\bin\Debug\CourseManager.exe.config
+D:\ADOTask9\CourseManager\CourseManager\bin\Debug\CourseManager.exe
+D:\ADOTask9\CourseManager\CourseManager\bin\Debug\CourseManager.pdb
+D:\ADOTask9\CourseManager\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+D:\ADOTask9\CourseManager\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+D:\ADOTask9\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.cache
+D:\ADOTask9\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CoreCompileInputs.cache
+D:\ADOTask9\CourseManager\CourseManager\obj\Debug\CourseManager.exe
+D:\ADOTask9\CourseManager\CourseManager\obj\Debug\CourseManager.pdb
+D:\ADOTask9\CourseManager\CourseManager\bin\Debug\EntityFramework.dll
+D:\ADOTask9\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+D:\ADOTask9\CourseManager\CourseManager\bin\Debug\EntityFramework.xml
+D:\ADOTask9\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+D:\ADOTask9\CourseManager\CourseManager\bin\Debug\ru\EntityFramework.resources.dll
+D:\ADOTask9\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CopyComplete

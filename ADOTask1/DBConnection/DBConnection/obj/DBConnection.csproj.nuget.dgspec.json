@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\ADOTask1\\DBConnection\\DBConnection\\DBConnection.csproj": {}
+    "D:\\ADOTask1\\DBConnection\\DBConnection\\DBConnection.csproj": {}
   },
   "projects": {
-    "C:\\Project\\ADOTask1\\DBConnection\\DBConnection\\DBConnection.csproj": {
+    "D:\\ADOTask1\\DBConnection\\DBConnection\\DBConnection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\ADOTask1\\DBConnection\\DBConnection\\DBConnection.csproj",
+        "projectUniqueName": "D:\\ADOTask1\\DBConnection\\DBConnection\\DBConnection.csproj",
         "projectName": "DBConnection",
-        "projectPath": "C:\\Project\\ADOTask1\\DBConnection\\DBConnection\\DBConnection.csproj",
+        "projectPath": "D:\\ADOTask1\\DBConnection\\DBConnection\\DBConnection.csproj",
         "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\ADOTask1\\DBConnection\\DBConnection\\obj\\",
+        "outputPath": "D:\\ADOTask1\\DBConnection\\DBConnection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -69,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
